@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "#about-me"
+
+  - title: "Educations"
+    url: "#-教育经历"
+
+  - title: "News"
+    url: "#-新闻"
+
+  - title: "Projects"
+    url: "#-项目竞赛"

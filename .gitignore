@@ -1,0 +1,15 @@
+_site/
+/.jekyll-cache/
+/.sass-cache/
+/.bundle/
+/vendor/
+/node_modules/
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+.vscode/
+Thumbs.db
+push.sh
+.DS_Store
